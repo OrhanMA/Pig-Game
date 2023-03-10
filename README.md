@@ -3,6 +3,7 @@ Pig Game:
 Check the live demo here:
 https://cerulean-genie-c9a82b.netlify.app
 
+This is a personal project.
 I used the vanilla js and css to make this project. The goal here was to learn DOM Manipulation.
 
 Rules:
